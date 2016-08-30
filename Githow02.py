@@ -1,1 +1,1 @@
-hello
+Cool_grej = "Tjejer Kodar"
